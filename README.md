@@ -11,49 +11,10 @@ This File Search application allows users to search for files based on file type
 - **Directory Selection**: Users can select any directory from their PC to perform the search.
 - **Case-Insensitive Search**: The search functionality is case-insensitive.
 
-## How to Run
-
 ### Prerequisites
 
 - Java Development Kit (JDK) 17 or higher
 - JavaFX SDK
-
-### Running the Application
-
-#### Windows
-
-1. **Navigate to the project directory**:
-   ```sh
-   cd C:\Users\heran\OneDrive\Desktop\demo\target
-   ```
-2. **Run the application**:
-   ```sh
-   .\run.bat
-   ```
-
-#### Unix-like Environment (WSL or Git Bash)
-
-1. **Navigate to the project directory**:
-   ```sh
-   cd /mnt/c/Users/heran/OneDrive/Desktop/demo/target
-   ```
-2. **Make the script executable** (if not already done):
-   ```sh
-   chmod +x run.sh
-   ```
-3. **Run the application**:
-   ```sh
-   ./run.sh
-   ```
-
-### Building the Project
-
-To build the project, use the following Maven commands:
-
-1. **Clean and package the project**:
-   ```sh
-   mvn clean package
-   ```
 
 ## Dependencies
 
