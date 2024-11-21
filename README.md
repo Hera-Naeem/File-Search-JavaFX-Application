@@ -3,6 +3,10 @@
 
 This File Search application allows users to search for files based on file types, file names, and file content within a specific directory selected by the user. Supported file types include `.txt`, `.docx`, and `.pdf`.
 
+## Download the `.jar` File
+To run the application, download the `.jar` file from the link below:
+- [Download demo-1.0-SNAPSHOT.jar]([https://your-link-here](https://1drv.ms/f/s!AoABzURMNXq-hOQiKSO3XCwzJglu0g?e=KRlWp0))
+
 ## Features
 
 - **Search by File Type**: Filter search results by file type (e.g., `.txt`, `.docx`, `.pdf`).
